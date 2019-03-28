@@ -15,7 +15,7 @@
     like the other two classes.
 
 3. What can we use to implement polymorphism in Java?
-    Using Interfaces and Abstract classes.
+    Using Interfaces, Abstract classes and Inheritance.
 
 4. How many 'forms' can an object take when using polymorphism?
     As many as you give it.
@@ -39,3 +39,10 @@
 
 5. When an object is destroyed, what happens to all the objects it is composed of?
     They will need heavy re-factoring to recover them.
+
+
+
+
+
+
+    <!--  -->
